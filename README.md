@@ -70,14 +70,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 <br />
 <div align="center">
 <img src="images/Screenshot.jpg" alt="Logo" width="680" height="400">
 </div><br />
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,9 +139,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+𝕤𝕞_𝕒𝕜𝕚𝕝 - [@akil_sm9](https://twitter.com/akil_sm9) - akil.ckb@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/sm-akil/Hospital_Management_System](https://github.com/sm-akil/Hospital_Management_System)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
