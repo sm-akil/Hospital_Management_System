@@ -27,7 +27,7 @@
     <img src="images/logo.png" alt="Logo" width="200" height="100">
   </a>
 
-<h3 align="center">• 𝙷𝚘𝚜𝚙𝚒𝚝𝚊𝚕 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚂𝚢𝚜𝚝𝚎𝚖 •</h3>
+<h3 align="center">• 【﻿Ｈｏｓｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｓｙｓｔｅｍ﻿】 •</h3>
 
   <p align="center">
     project_description
